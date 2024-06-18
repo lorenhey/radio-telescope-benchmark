@@ -1,0 +1,3 @@
+# SystemTemperature
+
+Documentation placeholder.

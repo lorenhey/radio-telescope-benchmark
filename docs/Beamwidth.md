@@ -1,0 +1,3 @@
+# Beamwidth
+
+Documentation placeholder.

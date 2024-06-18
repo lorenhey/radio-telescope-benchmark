@@ -1,0 +1,3 @@
+# Philosophy
+
+Documentation placeholder.

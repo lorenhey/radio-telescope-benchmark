@@ -1,0 +1,3 @@
+# Linearity
+
+Documentation placeholder.

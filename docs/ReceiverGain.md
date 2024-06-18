@@ -1,0 +1,3 @@
+# ReceiverGain
+
+Documentation placeholder.

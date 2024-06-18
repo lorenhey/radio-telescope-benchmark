@@ -1,0 +1,3 @@
+# NoiseTemperature
+
+Documentation placeholder.

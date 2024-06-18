@@ -1,0 +1,3 @@
+# ScienceSuitability
+
+Documentation placeholder.
